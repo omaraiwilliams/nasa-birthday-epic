@@ -1,7 +1,6 @@
 # <nasa-birthday-epic>
 
-<1 to 2 sentences on what your program does with
-NASA EPIC data>
+My program uses the NASA EPIC API to find Earth photos taken on my birthday across a range of years, summarizes each year’s photos (count, time, coordinates, and image URL), and then picks out the year with the most photos and the year whose first photo was farthest north.
 
 ## How it works
 Function 1: get_epic_photos(api_key, date)
