@@ -14,7 +14,7 @@ Description: Loops through the birthday dictionary to find the year with the mos
 
 ## How to run
 1. Install requests: pip install requests
-2. Run: python <your_file_name>.py
+2. Run: python nasa-birthday-epic.py
 3. Uses "DEMO_KEY" by default. Swap in your own key
    from api.nasa.gov for higher rate limits.
 
